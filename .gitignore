@@ -1,0 +1,5 @@
+
+*.pubxml
+*.bin
+FFWI/.vs/FFWI/config/applicationhost.config
+FFWI/ResourceManagement/ProjectSelector.aspx
